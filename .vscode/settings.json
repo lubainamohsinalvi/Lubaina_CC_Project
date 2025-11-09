@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "files.associations": {
+        "*.l": "lex",
+        "*.mcpp": "cpp",
+        "*.nex": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "editor.fontSize": 14,
+    "files.autoSave": "afterDelay"
+}

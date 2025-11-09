@@ -1,0 +1,147 @@
+Line 2: KEYWORD → Ziddi
+Line 2: ERROR → (
+Line 2: IDENTIFIER → umr
+Line 2: ERROR → >
+Line 2: ERROR → =
+Line 2: INTEGER → 18
+Line 2: ERROR → )
+Line 2: ERROR → {
+Line 2: ERROR →
+Line 3: KEYWORD → Dekhao
+Line 3: STRING → "Welcome adult!"
+Line 3: ERROR → ;
+Line 3: ERROR →
+Line 4: IDENTIFIER → hisaab
+Line 4: ERROR → =
+Line 4: INTEGER → 42
+Line 4: ERROR → ;
+Line 4: ERROR →
+Line 5: IDENTIFIER → daam
+Line 5: ERROR → =
+Line 5: FLOAT → 99.99
+Line 5: ERROR → ;
+Line 5: ERROR →
+Line 6: IDENTIFIER → scientific
+Line 6: ERROR → =
+Line 6: EXPONENTIAL → 1.23e-4
+Line 6: ERROR → ;
+Line 6: ERROR →
+Line 7: ERROR → }
+Line 7: ERROR →
+Line 8: ERROR →
+Line 9: IDENTIFIER → yehto
+Line 9: KEYWORD → Ziddi
+Line 9: ERROR → (
+Line 9: IDENTIFIER → umr
+Line 9: ERROR → >
+Line 9: INTEGER → 13
+Line 9: ERROR → )
+Line 9: ERROR → {
+Line 9: ERROR →
+Line 10: KEYWORD → Dekhao
+Line 10: STRING → "Teenager!"
+Line 10: ERROR → ;
+Line 10: ERROR →
+Line 11: PUNCTUATION → ->
+Line 11: IDENTIFIER → accessMember
+Line 11: ERROR → ;
+Line 11: ERROR →
+Line 12: IDENTIFIER → ClassName
+Line 12: PUNCTUATION → ::
+Line 12: IDENTIFIER → staticMethod
+Line 12: ERROR → (
+Line 12: ERROR → )
+Line 12: ERROR → ;
+Line 12: ERROR →
+Line 13: ERROR → }
+Line 13: ERROR →
+Line 14: ERROR →
+Line 15: IDENTIFIER → yehto
+Line 15: ERROR → {
+Line 15: ERROR →
+Line 16: KEYWORD → Dekhao
+Line 16: CHARACTER → 'c'
+Line 16: ERROR → ;
+Line 16: ERROR →
+Line 17: PUNCTUATION → @
+Line 17: IDENTIFIER → annotation
+Line 17: ERROR → ;
+Line 17: ERROR →
+Line 18: KEYWORD → Suno
+Line 18: IDENTIFIER → user_input
+Line 18: ERROR → ;
+Line 18: ERROR →
+Line 19: ERROR → }
+Line 19: ERROR →
+Line 20: ERROR →
+Line 21: IDENTIFIER → Jadotak
+Line 21: ERROR → (
+Line 21: IDENTIFIER → hisaab
+Line 21: OPERATOR → <=
+Line 21: INTEGER → 100
+Line 21: ERROR → )
+Line 21: ERROR → {
+Line 21: ERROR →
+Line 22: IDENTIFIER → hisaab
+Line 22: OPERATOR → ++
+Line 22: ERROR → ;
+Line 22: ERROR →
+Line 23: KEYWORD → Bhago
+Line 23: ERROR → ;
+Line 23: ERROR →
+Line 24: ERROR → }
+Line 24: ERROR →
+Line 25: ERROR →
+Line 26: KEYWORD → Karo
+Line 26: ERROR → {
+Line 26: ERROR →
+Line 27: IDENTIFIER → kaamKaro
+Line 27: OPERATOR → --
+Line 27: ERROR → ;
+Line 27: ERROR →
+Line 28: KEYWORD → Ziddi
+Line 28: ERROR → (
+Line 28: IDENTIFIER → error
+Line 28: ERROR → )
+Line 28: KEYWORD → Chapo
+Line 28: ERROR → ;
+Line 28: ERROR →
+Line 29: ERROR → }
+Line 29: IDENTIFIER → Jadotak
+Line 29: ERROR → (
+Line 29: IDENTIFIER → condition
+Line 29: OPERATOR → =>
+Line 29: IDENTIFIER → true
+Line 29: ERROR → )
+Line 29: ERROR → ;
+Line 29: ERROR →
+Line 30: ERROR →
+Line 31: KEYWORD → Socho
+Line 31: IDENTIFIER → complex_idea
+Line 31: ERROR → ;
+Line 31: ERROR →
+Line 32: KEYWORD → Lekho
+Line 32: IDENTIFIER → file
+Line 32: ERROR → ;
+Line 32: ERROR →
+Line 33: KEYWORD → Samjho
+Line 33: IDENTIFIER → concept
+Line 33: ERROR → ;
+Line 33: ERROR →
+Line 34: KEYWORD → Kudo
+Line 34: IDENTIFIER → next_level
+Line 34: ERROR → ;
+Line 34: ERROR →
+Line 35: KEYWORD → Gao
+Line 35: IDENTIFIER → song_name
+Line 35: ERROR → ;
+Line 35: ERROR →
+Line 36: ERROR →
+Line 38: PUNCTUATION → @
+Line 38: IDENTIFIER → invalid_identifier
+Line 38: ERROR →
+Line 39: INTEGER → 123
+Line 39: IDENTIFIER → abc
+Line 39: ERROR →
+Line 40: ERROR → $
+Line 40: IDENTIFIER → invalid_symbol

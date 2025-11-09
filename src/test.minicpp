@@ -1,0 +1,40 @@
+// My Unique Mini C++ Test Program
+Ziddi (umr >= 18) {
+    Dekhao "Welcome adult!"; 
+    hisaab = 42;
+    daam = 99.99;
+    scientific = 1.23e-4;
+}
+
+yehto Ziddi (umr > 13) {
+    Dekhao "Teenager!";
+    ->accessMember;
+    ClassName::staticMethod();
+}
+
+yehto {
+    Dekhao 'c';
+    @annotation;
+    Suno user_input;
+}
+
+Jadotak (hisaab <= 100) {
+    hisaab++;
+    Bhago;
+}
+
+Karo {
+    kaamKaro--;
+    Ziddi (error) Chapo;
+} Jadotak (condition => true);
+
+Socho complex_idea;
+Lekho file;
+Samjho concept;
+Kudo next_level;
+Gao song_name;
+
+// Testing invalid tokens
+@invalid_identifier
+123abc
+$invalid_symbol

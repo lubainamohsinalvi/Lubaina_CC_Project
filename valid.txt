@@ -1,0 +1,18 @@
+Ziddi
+Karo
+Lekho x, y ::
+Suno @ x ::
+y -> 5 + 2 ::
+Agar (x <= y) khloja
+Karo
+Chapo @ y ::
+Bhago
+yahto
+Karo
+Dekhao @ x ::
+Bhago
+JadoTak (x => y) Karo
+x++ ::
+Bhago
+Bhago
+Gao

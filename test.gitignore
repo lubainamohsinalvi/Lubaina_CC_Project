@@ -1,9 +1,0 @@
-# Generated files (do NOT push)
-lex.yy.c
-parser.tab.c
-parser.tab.h
-parser
-scanner
-
-# Object files
-*.o
